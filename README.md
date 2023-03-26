@@ -15,20 +15,37 @@ Welcome!
 For italics use _ before and after the word.
 For bold use ** before and after the word.
 
-# Combine headers, bold and italics
+# Combine headers, bold and _italics_
 #### Colombian Symbolism in One Hundred Years of Solitude
 Here's some words about the book _One Hundred Years..._.
 
 # Links
-To create an inline link, wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).\
+## Inline link
+Wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).\
 [_Visit_ **My personal web site!**](https://www.diegomoya.me).\
 
-## The Latest News from [the BBC](https://www.bbc.com/news)
+### The Latest News from [the BBC](https://www.bbc.com/news)
 
 ## A reference link
-Here's [a link to my pws][pws].
+Here's [a link to my pws][pws].\
 Here's [a link to my twitter][twitter].
-And now back to [the first link][another place].
 
 [pws]: https://www.diegomoya.me
 [twitter]: https://twitter.com/dmoyaec
+
+# Images
+## Inline image link.
+Enter an exclamation point ( ! )\
+Wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).\
+
+Example 1: check the Global emissions by region in the residential sector under 2 scenarios: ![link](https://diegomoya.me/wp-content/uploads/2022/06/Portfolio-1-Global-emissions-by-region-Residential-sector.jpeg)
+
+## A reference image
+Example 2:#
+Here's [a link to my pws image][pws].\
+[pws]: [https://diegomoya.me/wp-content/uploads/2022/06/Portfolio-6-India-industry-sector-Data-analysis-scaled.jpg]
+
+
+
+
+
