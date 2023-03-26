@@ -23,7 +23,12 @@ Here's some words about the book _One Hundred Years..._.
 To create an inline link, wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).\
 [_Visit_ **My personal web site!**](https://www.diegomoya.me).\
 
-###### The Latest News from [the BBC](https://www.bbc.com/news)
+## The Latest News from [the BBC](https://www.bbc.com/news)
 
+## A reference link
+Here's [a link to my pws][pws].
+Here's [a link to my twitter][twitter].
+And now back to [the first link][another place].
 
-
+[pws]: https://www.diegomoya.me
+[twitter]: https://twitter.com/dmoyaec
