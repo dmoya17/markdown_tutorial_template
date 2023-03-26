@@ -57,27 +57,22 @@ To create a block quote, add **"greater than"** caret (>). For example:
 There are two types of lists in the known universe: unordered and ordered. 
 ## Unordered
 To create an unordered list, you'll want to preface each item in the list with an asterisk ( * ).
-* Milk
-* Eggs
-* Salmon
-* Butter
+* Oil
+* Gas
+* Renewables
+* Nuclear
 
 ## Ordered 
-1. Crack three eggs over a bowl
-2. Pour a gallon of milk into the bowl
-3. Rub the salmon vigorously with butter
-4. Drop the salmon into the egg-milk bowl
+1. Oil and gas drive the industry and transport sector
+2. China is leading the race for renewables
+3. Nuclear will play a role as well
+
+* Energy
+  * A source
+  * Needed for development
+    * There is still people without energy
 
 
-* Tintin
-  * A reporter
-  * Has poofy orange hair
-  * Friends with the world's most awesome dog
-* Haddock
-  * A sea captain
-  * Has a fantastic beard
-  * Loves whiskey
-   * Possibly also scotch?
 
 
 
