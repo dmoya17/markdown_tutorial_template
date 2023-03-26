@@ -12,4 +12,5 @@ Welcome!
 ####### There is no header 7
 
 # _Italics_ and Bold words
-
+For italics use _ before and after the word
+For bold use ** before and after the word
