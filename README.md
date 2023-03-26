@@ -1,7 +1,7 @@
 This tutorial is actually a template to be used by markdown entusiastas. 
 Welcome!
 
-How to make headers: use #
+# How to make headers: use#
 
 # For Header one use 1#
 ## For Header two use 2#
