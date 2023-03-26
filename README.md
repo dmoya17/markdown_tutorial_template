@@ -49,9 +49,35 @@ note: be careful with references names. If you use the same reference names acro
 
 # Blockquotes
 To create a block quote, add **"greater than"** caret (>). For example:
-> "It is widely acknowledged that the drivers for energy consumption in the residential sector are ambient temperature, energy demand, population density, and socio-economic conditions. However, there are no studies in the literature assessing the temporal and spatial distribution of these drivers for a region or country. The decision-making process of the energy transition will be enhanced by using geospatial-resolved and temporal-explicit energy consumption drivers. This study estimates the climatic, end-use demands, and socio-economic drivers of energy consumption in the residential sector of Ecuador at a high spatio-temporal resolution between 2010 and 2020." Source: [**Moya et al.**](https://www.sciencedirect.com/science/article/abs/pii/S0196890422004253)
+> "It is widely acknowledged that the drivers for energy consumption in the residential sector are ambient temperature, energy demand, population density, and socio-economic conditions. However, there are no studies in the literature assessing the temporal and spatial distribution of these drivers for a region or country."
+> 
+> "The decision-making process of the energy transition will be enhanced by using geospatial-resolved and temporal-explicit energy consumption drivers. This study estimates the climatic, end-use demands, and socio-economic drivers of energy consumption in the residential sector of Ecuador at a high spatio-temporal resolution between 2010 and 2020." _Source:_ [**Moya et al.**](https://www.sciencedirect.com/science/article/abs/pii/S0196890422004253)
+
+# Lists
+There are two types of lists in the known universe: unordered and ordered. 
+## Unordered
+To create an unordered list, you'll want to preface each item in the list with an asterisk ( * ).
+* Milk
+* Eggs
+* Salmon
+* Butter
+
+## Ordered 
+1. Crack three eggs over a bowl
+2. Pour a gallon of milk into the bowl
+3. Rub the salmon vigorously with butter
+4. Drop the salmon into the egg-milk bowl
 
 
+* Tintin
+  * A reporter
+  * Has poofy orange hair
+  * Friends with the world's most awesome dog
+* Haddock
+  * A sea captain
+  * Has a fantastic beard
+  * Loves whiskey
+   * Possibly also scotch?
 
 
 
