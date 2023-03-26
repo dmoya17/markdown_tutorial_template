@@ -41,9 +41,11 @@ Wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( (
 Example 1: check the Global emissions by region in the residential sector under 2 scenarios: ![link](https://diegomoya.me/wp-content/uploads/2022/06/Portfolio-1-Global-emissions-by-region-Residential-sector.jpeg)
 
 ## A reference image
-Example 2:#
-Here's [a link to my pws image][pws].\
-[pws]: [https://diegomoya.me/wp-content/uploads/2022/06/Portfolio-6-India-industry-sector-Data-analysis-scaled.jpg]
+Example 2:\
+Here's [a link to my pws image][industry]\
+note: be carefull with references names. If you use the same reference names across links and images, markdown will call the main website instead of the image.
+
+[industry]: https://diegomoya.me/wp-content/uploads/2022/06/Portfolio-6-India-industry-sector-Data-analysis-scaled.jpg
 
 
 
