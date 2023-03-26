@@ -43,9 +43,13 @@ Example 1: check the Global emissions by region in the residential sector under 
 ## A reference image
 Example 2:\
 Here's [a link to my pws image][industry]\
-note: be carefull with references names. If you use the same reference names across links and images, markdown will call the main website instead of the image.
+note: be careful with references names. If you use the same reference names across links and images, markdown will call the main website instead of the image.
 
 [industry]: https://diegomoya.me/wp-content/uploads/2022/06/Portfolio-6-India-industry-sector-Data-analysis-scaled.jpg
+
+# Blockquotes
+To create a block quote, add **"greater than"** caret (>). For example:
+> "It is widely acknowledged that the drivers for energy consumption in the residential sector are ambient temperature, energy demand, population density, and socio-economic conditions. However, there are no studies in the literature assessing the temporal and spatial distribution of these drivers for a region or country. The decision-making process of the energy transition will be enhanced by using geospatial-resolved and temporal-explicit energy consumption drivers. This study estimates the climatic, end-use demands, and socio-economic drivers of energy consumption in the residential sector of Ecuador at a high spatio-temporal resolution between 2010 and 2020." Source: [**Moya et al.**](https://www.sciencedirect.com/science/article/abs/pii/S0196890422004253)
 
 
 
