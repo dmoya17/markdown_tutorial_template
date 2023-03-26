@@ -10,3 +10,6 @@ Welcome!
 ##### For Header five use 5#
 ###### For Header six use 6#
 ####### There is no header 7
+
+# _Italics_ and Bold words
+
