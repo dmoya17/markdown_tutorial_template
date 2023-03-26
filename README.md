@@ -72,7 +72,21 @@ To create an unordered list, you'll want to preface each item in the list with a
   * Needed for development
     * There is still people without energy
 
+1. Oil and gas drive the industry and transport sector
 
+ China is leading the race for renewables.
+
+ _Nuclear_ will play a **role as well.**
+
+   Climate, energy demand and socioeconomic domestic geospatial consumption drivers:
+   > Calibrated gridded datasets of seven consumption drivers for Ecuador households.
+   
+4. Validated methodology to enhance nationwide estimation of residential demands.
+
+   Here are some techniques:
+
+   * It is widely acknowledged that the drivers for energy consumption in the residential sector are ambient temperature, energy demand, population density, and socio-economic conditions. 
+   * However, there are no studies in the literature assessing the temporal and spatial distribution of these drivers for a region or country. 
 
 
 
