@@ -20,6 +20,6 @@ For bold use ** before and after the word.
 Here's some words about the book _One Hundred Years..._.
 
 # Links
-To create an inline link, wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).
+To create an inline link, wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).\
 [_Visit_ **My personal web site!**](https://www.diegomoya.me).
 
