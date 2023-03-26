@@ -21,5 +21,6 @@ Here's some words about the book _One Hundred Years..._.
 
 # Links
 To create an inline link, wrap the link text in brackets ( [ ] ) and then wrap the link in parenthesis ( ( ) ).
+[Visit GitHub!](www.github.com).
 [Visit My personal web site!](www.diegomoya.me).
 
