@@ -12,5 +12,9 @@ Welcome!
 ####### There is no header 7
 
 # _Italics_ and Bold words
-For italics use _ before and after the word
-For bold use ** before and after the word
+For italics use _ before and after the word.
+For bold use ** before and after the word.
+
+# Combine headers, bold and italics
+#### Colombian Symbolism in One Hundred Years of Solitude
+Here's some words about the book _One Hundred Years..._.
